@@ -9,7 +9,7 @@ gem 'bunny', '~>1.1.0'
 gem 'sequel', '~>4.10.0'
 gem 'pg', '~>0.17.1', platforms: :ruby
 gem 'jdbc-postgres', "~> 9.3", platform: :jruby
-gem 'nokogiri', '~>1.6.2.1'
+gem 'nokogiri', '~>1.11.0'
 gem 'stemmer', '~>1.0.1'
 gem 'robots', '~>0.10.1'
 gem 'rest-client', '~>1.6.7'
