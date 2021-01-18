@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'sinatra', '~>1.4.4'
 gem 'haml', '~>4.0.5'
-gem 'json', '~>1.8.1'
+gem 'json', '~>2.3.0'
 gem 'activesupport', '~>4.0.2'
 gem 'celluloid', '~>0.15.2'
 gem 'bunny', '~>1.1.0'
